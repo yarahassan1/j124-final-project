@@ -2,7 +2,7 @@
 ### By: Yara Hassan, UC Berkeley 2027 
 ### B.A. Data Science, B.S. Environmental Economics and Policy
 
-## The Same Top 10 Foods In Every American Grocery Cart, SNAP or Not
+## The Same Foods In Every American Grocery Cart, SNAP or Not
 
 ## Data Acquisition and Summary:
 
