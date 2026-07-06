@@ -19,16 +19,16 @@ The USDA can generally be viewed as a trustworthy source because it is a governm
 
 ## Data Analysis: 
 
-See the full analysis in my notebook: JOURN_124_Final_Project.ipynb
+See the full analysis in my notebook: [JOURN_124_Final_Project.ipynb](./JOURN_124_Final_Project.ipynb)
 
 ## Two Data Visualizations:
 
 ### Chart 1: Top 10 Commodities — SNAP Households
-![Top 10 SNAP commodities](./chart1.png)
+![Top 10 SNAP commodities](./chart%201.png)
 Soft drinks are the single largest category at 5.44% of all SNAP spending, followed by fluid milk products (3.85%) and beef:grinds (3.05%).
 
 ### Chart 2: Top 10 Commodities — Non-SNAP Households
-![Top 10 non-SNAP commodities](./chart2.png)
+![Top 10 non-SNAP commodities](./chart%202.png)
 Fluid milk products lead at 4.03%, with soft drinks close behind at 4.01%. 7 of the top 10 commodities are identical between groups.
 
 
