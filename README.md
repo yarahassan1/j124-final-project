@@ -21,7 +21,7 @@ The USDA can generally be viewed as a trustworthy source because it is a governm
 
 ## Data Analysis: 
 
-See the full analysis in my notebook, which includes code and markdown text cells: [JOURN_124_Final_Project.ipynb](./JOURN_124_Final_Project.ipynb)
+See the full analysis in my notebook, which includes code and markdown text cells: [JOURN_124_Final_Project_Notebook.ipynb](./JOURN_124_Final_Project_Notebook.ipynb)
 
 ## Two Data Visualizations:
 
