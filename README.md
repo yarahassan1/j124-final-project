@@ -12,7 +12,7 @@ In 2025, a poll from the Center for Excellence in Polling showed that 58% of lik
 
 ## Data Acquisition:
 
-The dataset used in this analysis comes from a 2016 USDA study, which examined food purchases made in 2011 by 26.5 million different households receiving SNAP benefits, compared to non-SNAP households. The purchase data was collected at points of sale from a leading grocery retailer. According to the USDA, the data came from supermarkets, grocery stores, and food-and-drug stores; hwever, warehouse club stores, specialized food stores, and convenience stores were not included.
+The dataset used in this analysis comes from a 2016 USDA study, which examined food purchases made in 2011 by 26.5 million different households receiving SNAP benefits, compared to non-SNAP households. The purchase data was collected at points of sale from a leading grocery retailer. According to the USDA, the data came from supermarkets, grocery stores, and food-and-drug stores; however, warehouse club stores, specialized food stores, and convenience stores were not included.
 
 For this study, a transaction was considered to be associated with a SNAP household if SNAP was used to pay for at least half of the total purchase. This definition creates some limitations. For example, it does not include transactions where SNAP was used for less than half of the purchase, and it does not show which specific items were paid for using SNAP versus another payment method such as cash or debit/credit. 
 
