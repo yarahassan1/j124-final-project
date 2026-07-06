@@ -43,3 +43,12 @@ Taken blindly, this data could risk being used to stigmatize SNAP recipients bas
 As noted earlier, this dataset has constraints on what it can tell us. It reflects purchases from a single retailer, so it is not a nationally representative sample of all SNAP-authorized stores. It also classifies a transaction as “SNAP household” spending only when SNAP covers at least half of the purchase total. Additionally, the data is from 2011, which is over a decade old, so it may not reflect current shopping patterns.
 To make this a more complete and current piece of journalism, I would want to reconduct the study using more modern purchase data, ideally from multiple retailers across different regions, to check whether this “minimal difference” finding still holds today. I would also want to interview SNAP recipients directly about their shopping decisions and constraints, rather than relying only on purchase data, which cannot capture the reasoning behind a purchase. Lastly, I would look at outcomes in the states that have already implemented soda and candy restrictions, since real-world data on those policies would meaningfully contribute to this debate.
 
+## Works Cited
+
+“Foods Typically Purchased by Supplemental Nutrition Assistance Program (SNAP) Households.” Food and Nutrition Administration, United States Department of Agriculture, 24 January 2025, https://www.fna.usda.gov/research/snap/foods-typically-purchased-supplemental-nutrition-assistance-program-snap-households.
+
+Taylor PHD, Travis N. “Voters Support Banning Junk Food Purchases with Food Stamps.” A project of the Foundation for Government Accountability, Center for Excellence in Polling, 24 March 2025, https://excellenceinpolling.com/poll/voters-support-banning-junk-food-purchases-with-food-stamps/.
+
+“USDA SNAP Spending Study.” Data Is Plural, Data Is Plural, 18 January 2017, https://github.com/data-is-plural/usda-snap-spending-study/tree/master.
+
+
