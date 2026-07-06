@@ -16,7 +16,6 @@ For this study, a transaction was considered to be associated with a SNAP househ
 
 The USDA can generally be viewed as a trustworthy source because it is a government agency, but the dataset still has important limitations. First, the data comes from only one retailer group, so it does not represent all SNAP-authorized stores in the United States. Second, the data is from 2011, meaning it is likely outdated, since shopping behaviors may have changed over the past decade. Third, because SNAP is a politically controversial program, the way the data is interpreted could be influenced by debates over whether taxpayer money should fund certain types of food purchases.
 
-Because of these limitations, this dataset is useful for comparing SNAP and non-SNAP grocery purchases, but it should not be treated as a complete picture of how all SNAP benefits are used across the country.
 
 ## Data Analysis: 
 
