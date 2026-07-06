@@ -1,5 +1,5 @@
 # JOURN 124  Final Project
-By: Yara Hassan, UC Berkeley 2027 
+By: Yara Hassan, UC Berkeley 2027, 
 B.A. Data Science, B.S. Environmental Economics and Policy
 
 ## The Same Foods In Every American Grocery Cart, SNAP or Not
